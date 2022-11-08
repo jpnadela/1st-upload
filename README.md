@@ -1,3 +1,4 @@
 # Drop-down-Menu
-
-A trial of creating drop-down menu with HTML and CSS. 
+:raised_hands:
+Applying some of the things that I learned studying HTML and CSS through this drop-down menu. 
+:arrow_down:
